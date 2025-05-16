@@ -1,11 +1,10 @@
-# Solution to MATLAB and Simulink Challenge project <'project number'> <'Project Title'>
-This is a template repo for MATLAB and Simulink Challenge Project solutions.
-
-Please add the following items:
+# Solution to MATLAB and Simulink Challenge
+# Project: 246
+# Energy Management for a 2-Motor BEV using Model-Predictive Control
 
 [Program link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)
 
-[Project description link]<Add link to the project description from the list of projects above>
+[Project description link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/Energy%20Management%20for%20a%202-Motor%20BEV%20using%20Model-Predictive%20Control)
 
 
 # Project details
